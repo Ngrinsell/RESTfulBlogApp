@@ -12,6 +12,7 @@ This app was created to solidify knowledge of RESTful routes within web applicat
 * Express.js
 * MongoDB
 * Mongoose
+* Semantic UI
 
 ### Dependencies
 * body-parser: 1.18.3
