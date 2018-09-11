@@ -23,7 +23,7 @@ This app was created to solidify knowledge of RESTful routes within web applicat
 * mongoose: 5.2.9
 
 ## Screenshots
-![App Index](https://www.ngrinsell.com/wp-content/uploads/2018/08/portfolio_RESTfulBlog_index.png)
+![App Index](https://www.ngrinsell.com/wp-content/uploads/2018/09/portfolio_RESTfulBlog.png)
 ![App New](https://www.ngrinsell.com/wp-content/uploads/2018/08/portfolio_RESTfulBlog_newPost.png)
 ![App Show](https://www.ngrinsell.com/wp-content/uploads/2018/08/portfolio_RESTfulBlog_showPost.png)
 ![App Update](https://www.ngrinsell.com/wp-content/uploads/2018/08/portfolio_RESTfulBlog_editPost.png)
